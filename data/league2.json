@@ -1,0 +1,25 @@
+{
+  "league": "Premier League",
+  "teams": [
+    {"team": "Άρσεναλ", "played": 31, "wins": 21, "draws": 7, "losses": 3, "goalsFor": 61, "goalsAgainst": 22, "goalDifference": 39, "points": 70},
+    {"team": "Μάντσεστερ Σίτι", "played": 30, "wins": 18, "draws": 7, "losses": 5, "goalsFor": 60, "goalsAgainst": 28, "goalDifference": 32, "points": 61},
+    {"team": "Μάντσεστερ Γιουνάιτεντ", "played": 31, "wins": 15, "draws": 10, "losses": 6, "goalsFor": 56, "goalsAgainst": 43, "goalDifference": 13, "points": 55},
+    {"team": "Άστον Βίλα", "played": 31, "wins": 16, "draws": 6, "losses": 9, "goalsFor": 42, "goalsAgainst": 37, "goalDifference": 5, "points": 54},
+    {"team": "Λίβερπουλ", "played": 31, "wins": 14, "draws": 7, "losses": 10, "goalsFor": 50, "goalsAgainst": 42, "goalDifference": 8, "points": 49},
+    {"team": "Τσέλσι", "played": 31, "wins": 13, "draws": 9, "losses": 9, "goalsFor": 53, "goalsAgainst": 38, "goalDifference": 15, "points": 48},
+    {"team": "Μπρέντφορντ", "played": 31, "wins": 13, "draws": 7, "losses": 11, "goalsFor": 46, "goalsAgainst": 42, "goalDifference": 4, "points": 46},
+    {"team": "Έβερτον", "played": 31, "wins": 13, "draws": 7, "losses": 11, "goalsFor": 37, "goalsAgainst": 35, "goalDifference": 2, "points": 46},
+    {"team": "Φούλαμ", "played": 31, "wins": 13, "draws": 5, "losses": 13, "goalsFor": 43, "goalsAgainst": 44, "goalDifference": -1, "points": 44},
+    {"team": "Μπράιτον", "played": 31, "wins": 11, "draws": 10, "losses": 10, "goalsFor": 41, "goalsAgainst": 37, "goalDifference": 4, "points": 43},
+    {"team": "Σάντερλαντ", "played": 31, "wins": 11, "draws": 10, "losses": 10, "goalsFor": 32, "goalsAgainst": 36, "goalDifference": -4, "points": 43},
+    {"team": "Νιούκαστλ", "played": 31, "wins": 12, "draws": 6, "losses": 13, "goalsFor": 44, "goalsAgainst": 45, "goalDifference": -1, "points": 42},
+    {"team": "Μπόρνμουθ", "played": 31, "wins": 9, "draws": 15, "losses": 7, "goalsFor": 46, "goalsAgainst": 48, "goalDifference": -2, "points": 42},
+    {"team": "Κρίσταλ Πάλας", "played": 30, "wins": 10, "draws": 9, "losses": 11, "goalsFor": 33, "goalsAgainst": 35, "goalDifference": -2, "points": 39},
+    {"team": "Λιντς", "played": 31, "wins": 7, "draws": 12, "losses": 12, "goalsFor": 37, "goalsAgainst": 48, "goalDifference": -11, "points": 33},
+    {"team": "Νότιγχαμ Φόρεστ", "played": 31, "wins": 8, "draws": 8, "losses": 15, "goalsFor": 31, "goalsAgainst": 43, "goalDifference": -12, "points": 32},
+    {"team": "Τότεναμ", "played": 31, "wins": 7, "draws": 9, "losses": 15, "goalsFor": 40, "goalsAgainst": 50, "goalDifference": -10, "points": 30},
+    {"team": "Γουέστ Χαμ", "played": 31, "wins": 7, "draws": 8, "losses": 16, "goalsFor": 36, "goalsAgainst": 57, "goalDifference": -21, "points": 29},
+    {"team": "Μπέρνλι", "played": 31, "wins": 4, "draws": 8, "losses": 19, "goalsFor": 33, "goalsAgainst": 61, "goalDifference": -28, "points": 20},
+    {"team": "Γουλβς", "played": 31, "wins": 3, "draws": 8, "losses": 20, "goalsFor": 24, "goalsAgainst": 54, "goalDifference": -30, "points": 17}
+  ]
+}

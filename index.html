@@ -2,38 +2,33 @@
 <html lang="el">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Football Leaderboard</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-    <h1>Βαθμολογία Πρωταθλήματος</h1>
-    <label for="leagueSelect">Επιλέξτε Όμιλο:</label>
 
-    <select id="leagueSelect">
-        <option value="groupA">Όμιλος A</option>
-        <option value="groupB">Όμιλος B</option>
-    </select>
+    <div class="container">
+        <h1>Βαθμολογία Πρωταθλήματος</h1>
 
-    <table id="standings">
-        <thread>
-            <tr>
-                <th>Θέση</th>
-                <th>Ομάδα</th>
-                <th>Αγώνες</th>
-                <th>Νίκες</th>
-                <th>Ισοπαλίες</th>
-                <th>Ήττες</th>
-                <th>Γκολ</th>
-                <th>Βαθμοί</th>
-            </tr>
-        </thread>
-        <tbody>
-            
-        </tbody>
-            
-    </table>
-    <script src="data/league1.json"></script>
+        <div class="controls">
+            <div class="control-group">
+                <label for="leagueSelect">Επιλέξτε Πρωτάθλημα:</label>
+                <select id="leagueSelect">
+                    <option value="league1">Super League</option>
+                    <option value="league2">Premier League</option>
+                </select>
+            </div>
+
+            <div class="control-group" id="groupControl">
+                <label for="groupSelect">Επιλέξτε Όμιλο:</label>
+                <select id="groupSelect"></select>
+            </div>
+        </div>
+
+        <div id="standings-container"></div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
